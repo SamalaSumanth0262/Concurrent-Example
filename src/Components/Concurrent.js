@@ -1,7 +1,6 @@
 import React, { useState, useEffect, Suspense } from "react";
 import _ from "lodash";
 const LoadData = props => {
-  console.log("TCL: props", props);
   return props.data.map((item, key) => {
     return <img src={item.url} width='10' height='10' />;
   });
