@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Functional React, Used React Hooks for state handling
 ### Basic example for using React Suspence (Experimental React)
 
 ### Interrupitble Rendering with React
